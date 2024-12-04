@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+notebook = "*"
+ipykernel = "*"
+matplotlib = "*"
 
 [dev-packages]
 
